@@ -492,8 +492,7 @@ box-shadow: 0 0 10px rgba(255, 94, 87, 0.5);
     position: relative;
     top: 20px;
     left: -20px;
- 
-     padding: 12px 24px;
+    padding: 12px 24px;
     border: none;
     border-radius: 12px;
     background: rgb(199, 193, 193,0.3);
@@ -548,8 +547,6 @@ box-shadow: 0 0 10px rgba(255, 94, 87, 0.5);
     }
 
    /* pg1 main content */
-
-   
     .txt {
         margin-top: 10%;
         width: 65%;
@@ -583,7 +580,7 @@ box-shadow: 0 0 10px rgba(255, 94, 87, 0.5);
       .contactdiv {
         display: flex;
         gap: 15px; /* Adjust spacing */
-       margin-left: 220px;
+       margin-left: 190px;
       }
     .contactdiv a i {
         font-size: 20px; /* Reduce icon size for smaller screens */
