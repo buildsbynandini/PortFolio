@@ -1,6 +1,8 @@
 # Nandini Chockalingam  
 ### Full-Stack Web Developer • Trailblazer • Code Enthusiast
 
+Passionate about building seamless user experiences and writing clean, maintainable code.
+
 Hello and welcome! This is where I share a bit about myself, my work, and how you can reach me.
 
 ---
@@ -35,7 +37,7 @@ Explore my portfolio by clicking the link below:
 ## 📬 Contact
 
 - GitHub: [buildsbynandini](https://github.com/buildsbynandini)  
-- Email: nandinithedev@gmail.com
+- Email: [nandinithedev@gmail.com](mailto:nandinithedev@gmail.com)
 
 ---
 
