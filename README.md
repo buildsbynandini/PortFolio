@@ -1,9 +1,10 @@
 # Nandini Chockalingam  
 ### Full-Stack Web Developer • Trailblazer • Code Enthusiast
 
+Hello and welcome! This is where I share a bit about myself, my work, and how you can reach me.
+
 Passionate about building seamless user experiences and writing clean, maintainable code.
 
-Hello and welcome! This is where I share a bit about myself, my work, and how you can reach me.
 
 ---
 
